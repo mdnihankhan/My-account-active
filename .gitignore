@@ -1,0 +1,7 @@
+echo "# My-account-active" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mdnihankhan/My-account-active.git
+git push -u origin mainREADME.md
